@@ -1,0 +1,17 @@
+Initialize
+
+- git init
+
+Track
+
+- git add <file name>
+- git add .
+- git add -u  (untracked files)
+
+Commit
+
+- git commit -m"Comment here"
+
+Push
+
+- git push <branchname>
