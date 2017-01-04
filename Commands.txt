@@ -51,3 +51,10 @@ Add newfeature1 branch
 
 Add two new branch
 - git checkout -b newbranch
+
+Merge new branch to current branch (fast-forward)
+- git merge <branch>
+
+Non fast-forward merge
+- git merge --no-ff <branch>
+
