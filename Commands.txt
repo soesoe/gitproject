@@ -46,6 +46,8 @@ Delete branch
 
 Advanced branching
 
+Add newfeature1 branch
+-git checkout -b newfeature1
+
 Add two new branch
 - git checkout -b newbranch
-
