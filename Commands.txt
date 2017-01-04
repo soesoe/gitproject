@@ -15,3 +15,31 @@ Commit
 Push
 
 - git push <branchname>
+
+Checking log
+- git log
+
+Show log details
+- git show <commitid>
+
+
+Branching
+
+create new branch from current branch
+- git branch <branchname>
+
+switch branch
+- git checkout <branchname>
+
+Create new branch and switch branch
+- git checkout -b <branchname>
+
+Create new branch from certain commit and switch to that branch
+- git checkout -b <branchname> <commit id>
+
+Rename current branch
+- git branch -m <newbranchname>
+
+Delete branch
+- git branch -D <branchname>
+
