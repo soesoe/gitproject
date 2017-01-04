@@ -43,3 +43,9 @@ Rename current branch
 Delete branch
 - git branch -D <branchname>
 
+
+Advanced branching
+
+Add two new branch
+- git checkout -b newbranch
+
