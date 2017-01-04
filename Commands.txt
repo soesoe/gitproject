@@ -43,3 +43,5 @@ Rename current branch
 Delete branch
 - git branch -D <branchname>
 
+Add newfeature1 branch
+-git checkout -b newfeature1
